@@ -18,9 +18,4 @@ func main() {
 	}
 
 	fmt.Println(contactsTwo)
-
-	for _, value := range contacts {
-		contacts.
-	}
-
 }
